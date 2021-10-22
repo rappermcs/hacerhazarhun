@@ -1,0 +1,27 @@
+/*--------------------- Copyright (c) 2021 ----------------------- 
+[Color Stylesheet] 
+-------------------------------------------------------------------*/
+
+
+/**********************************
+ 	1. Color CSS Start 
+ **********************************/
+
+ :root {
+    --ext-main-bg: #0b0c10;
+    --ext-alternate-bg: #121212;
+    --ext-font-color: #9b9ca8;
+    --ext-title-color: #ffffff;
+    --ext-white: #ffffff;
+    --ext-primary-color: #904330;
+    --ext-border-color: #363636;
+    --ext-input-border: #242424;
+    --ext-input-bg: #242424;
+    --ext-yellow: #ffaa17;
+    --ext-green: #53d575;
+    --ext-wishlist: #ff6695;
+    --ext-footer-bg: #141519;
+    --ext-placeholder: #9b9ca8;
+    --black: #000000;
+    --ext-shadow: 0 0 30px rgb(0 0 0 / 3%);
+}
